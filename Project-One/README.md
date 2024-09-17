@@ -26,6 +26,7 @@ This Python script allows users to translate a given sentence into a specified R
 
 ## Usage
 
+Ps. You will need the googletrans module installed: pip install googletrans
 1. Run the script:
    ```bash
    python your_script_name.py
